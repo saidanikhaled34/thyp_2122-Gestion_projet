@@ -14,7 +14,7 @@ Nos idées consistent à la représentation de la responsabilité collective de 
 - DJERDI Nabil : Scrum master
 - GLADDIMIR Altema : Product owner
 - DEME Moussa : Développeur
-#### SAIDANI Khaled : Développeur
+#### - SAIDANI Khaled : Développeur
 - BELMEHDI Fadoua :Développeur {ux-ui design}
 
 ## 5 - Scénario :
