@@ -11,11 +11,11 @@ Nos idées consistent à la représentation de la responsabilité collective de 
 
 ## 4 - Methode Agile:
 Étant donné qu’on utilise la méthodologie agile scrum, chaque membre de notre à un rôle spécifique:
-DJERDI Nabil : Scrum master
-GLADDIMIR Altema : Product owner
-DEME Moussa : Développeur
+- DJERDI Nabil : Scrum master
+- GLADDIMIR Altema : Product owner
+- DEME Moussa : Développeur
 #### SAIDANI Khaled : Développeur
-BELMEHDI Fadoua :Développeur {ux-ui design}
+- BELMEHDI Fadoua :Développeur {ux-ui design}
 
 ## 5 - Scénario :
 - Authentification de l'utilisateur
